@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyAppSwitchActivity</string>
+    <string name="app_name">Мое Приложение С Двумя Активити</string>
+    <string name="starting_number" translatable="false">0</string>
+    <string name="counter">Счетчик</string>
+    <string name="result">Результат</string>
+    <string name="current_counter">Текущее значение счетчика</string>
 </resources>
